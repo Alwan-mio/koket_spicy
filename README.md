@@ -1,2 +1,2 @@
-This page by HTML and CSS only.
-It is just interface, no javascript.
+# KOKET SPICY
+This is my first project.
