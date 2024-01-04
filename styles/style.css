@@ -497,7 +497,13 @@ footer a:hover {
 }
 
 /* style fake class */
+.fake {
+   padding: 20px;
+   font-size: 30px;
+}
+
 hr {
+   color: black;
    background-color: black;
    height: 5px;
    border-radius: 30px;
