@@ -496,6 +496,13 @@ footer a:hover {
    align-items: center;
 }
 
+/* style fake class */
+hr {
+   background-color: black;
+   height: 5px;
+   border-radius: 30px;
+}
+
 /* Start of Animation Style */
 @-webkit-keyframes fetch-menu {
    0% {
